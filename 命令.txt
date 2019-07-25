@@ -1,0 +1,6 @@
+1.拉取命令
+git pull origin master
+2.提交命令
+git add .
+git commit -m "注释部分"
+git push origin master
