@@ -1,0 +1,28 @@
+
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öãˆŽþÿÿÿÿH¬RMINORZ
+CODE_SMELL
+lsquid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€H­RMAJORZBUG
+e
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ñª•óHÕRMAJORZ
+CODE_SMELL
+ssquid:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ëŽîÃ0HäRMAJORZBUG
+q
+squid:S106I"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8ëŽîÃ0HãRMAJORZ
+CODE_SMELL
+wsquid:S22748";Remove this call to "await" or move it into a "while" loop.(„úä¹þÿÿÿÿ8ÁÌ‹îÃ0HàRCRITICALZ
+CODE_SMELL
+Xsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH²RMINORZVULNERABILITY
+Xsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH³RMINORZVULNERABILITY
+_squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ëŽîÃ0HæRMINORZVULNERABILITY
+rsquid:S2274"";Remove this call to "await" or move it into a "while" loop.(Å‰¥Ã8Ã©›îÃ0HçRCRITICALZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑýÿÿÿÿH«RMAJORZ
+CODE_SMELL
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8“ÛîÃ0HþRCRITICALZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÍÔáÎûÿÿÿÿH±RMINORZ
+CODE_SMELL
+rsquid:S2274K";Remove this call to "await" or move it into a "while" loop.(­Ð£Ö8ëŽîÃ0HåRCRITICALZ
+CODE_SMELL
+lsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€H®RMAJORZBUG
